@@ -1,0 +1,21 @@
+LPBA_Name	LPBA_labels	Model_labels	Model_Name
+cuneus	67,68	5	Cuneus
+fusiform gyrus	91,92	7	Fusiform-Gyrus
+angular gyrus	47,48	8	Inferior-Parietal-Cortex
+inferior temporal gyrus	85,86	9	Inferior-Temporal-Cortex
+superior/inferior occipital gyrus	61,62,65,66	11	Lateral-Occipital-Cortex
+lingual gyrus	89,90	13	Lingual-Gyrus
+middle temporal gyrus	83,84	15	Middle-Temporal-Cortex
+parahippocampal gyrus	87,88	16	Parahippocampal-Gyrus
+inferior frontal gyrus	25,26	18,20	Pars-Opercularis, Pars-Triangularis
+postcentral gyrus	41,42	22	Postcentral-Gyrus
+precentral gyrus	27,28	24	Precentral-Gyrus
+precuneus	49,50	25	Precuneus
+middle frontal gyrus	23,24	27, 3	Caudal-Middle-Frontal-Cortex, Rostral-Middle-Frontal-Cortex
+superior frontal gyrus	21,22	28	Superior-Frontal-Gyrus
+superior parietal gyrus	43,44	29	Superior-Parietal-Lobule
+superior temporal gyrus	81,82	30	Superior-Temporal-Gyrus
+supramarginal gyrus	45,46	31	Supramarginal-Gyrus
+caudate	161,162	41	Caudate
+putamen	163,164	42	Putamen
+hippocampus	165,166	45	Hippocampus
